@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: btqs44vi5-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/btqs44vi5-go
